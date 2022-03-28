@@ -1,0 +1,9 @@
+Final model kind: RandomForestRegressor
+
+Final model performance metrics:
+Mean cross validation train score: 0.765
+Standard deviation in cross validation training scores: 0.005
+R2 score on the training data: 0.927
+R2 score on the test data: 0.771
+RMSE: 3408.169
+MAE: 1752.828
